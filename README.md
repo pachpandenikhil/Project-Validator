@@ -7,7 +7,7 @@ Project Validator is used to validate projects for plagiarism of ideas.
 •	Scope limited to Computer Science projects.<br/>
 <br/>
 <br/>
-Core Technology: Java EE, JSP, Servlet, JDBC, HTML, CSS, JavaScript and Oracle (10g).
+Core Technology: Struts 2.0, JSP, Servlet, JDBC, HTML, CSS, JavaScript and Oracle (10g).
 <br/>
 <br/>
 
